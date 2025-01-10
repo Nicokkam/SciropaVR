@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/Scenes/Multiplayer-MR-MetaAvatar-Colocation.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: "Assets/Samples/Meta XR Interaction \u200BSDK/68.0.1/Example Scenes/PoseExamples.unity"
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
