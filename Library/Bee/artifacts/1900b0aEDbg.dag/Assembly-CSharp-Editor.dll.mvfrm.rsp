@@ -3,6 +3,8 @@ Library\Bee\artifacts\mvdfrm\Unity.AI.Navigation.Editor.ConversionSystem.ref.dll
 Library\Bee\artifacts\mvdfrm\Unity.AI.Navigation.Editor.ref.dll_D159463F08EBC828.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.AI.Navigation.Updater.ref.dll_624D4C5EA49E89F4.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.AI.Navigation.ref.dll_4DBD8B01BD2AE419.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Addressables.Editor.ref.dll_AE648E4015073925.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Addressables.ref.dll_555D8E478755474C.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Burst.Editor.ref.dll_4F7B73E229D756B2.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Burst.ref.dll_A9D47564F0C574EF.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.EditorCoroutines.Editor.ref.dll_A9E741B2F4D7FC42.mvfrm
@@ -27,7 +29,10 @@ Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Universal.Config.Runtime.ref.
 Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Universal.Editor.ref.dll_9B0204A7A5F40BDA.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Universal.Runtime.ref.dll_20EFA45AC0361BB1.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Universal.Shaders.ref.dll_6157B3A3FEA4B6E7.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.ResourceManager.ref.dll_5753F7D8D23EE4AE.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Rider.Editor.ref.dll_07D7D7B7487B1198.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.ScriptableBuildPipeline.Editor.ref.dll_4402053C4F6AC2D7.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.ScriptableBuildPipeline.ref.dll_9CC2337DD9A84A7A.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Searcher.Editor.ref.dll_131E0B0FB16513F5.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.ShaderGraph.Editor.ref.dll_319B33408212A519.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Sysroot.Linux_x86_64.ref.dll_7C97561AB18550E8.mvfrm

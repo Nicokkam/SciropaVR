@@ -126,6 +126,7 @@
 -define:OCULUS_INTERACTION_SDK_AVAILABLE
 -define:FUSION_HAS_MONO_CECIL
 -define:FUSION_CECIL_1_11_OR_NEWER
+-define:FUSION_ENABLE_ADDRESSABLES
 -define:FUSION_HAS_JETBRAINS_ATTRIBUTES
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
@@ -351,6 +352,9 @@
 -r:"Library/PackageCache/com.unity.nuget.mono-cecil@1.11.4/Mono.Cecil.Pdb.dll"
 -r:"Library/PackageCache/com.unity.nuget.mono-cecil@1.11.4/Mono.Cecil.Rocks.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Fusion.Unity.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Addressables.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Addressables.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.ResourceManager.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.ref.dll"
