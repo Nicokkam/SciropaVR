@@ -12,16 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea37dd549acbccc4295dcaab75a1ba32, type: 3}
   m_Name: ItemData_Rock
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Rock
   objectReference:
-    m_AssetGUID: 
+    m_AssetGUID: 173075e36effa2f44a6c934eb5f43b1e
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
   audioClipReference:
-    m_AssetGUID: 
+    m_AssetGUID: 57d07e382d687fb46b65c9f5f4ac7fd7
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
-  instantiatedObject: {fileID: 0}
-  loadedAudioClip: {fileID: 0}

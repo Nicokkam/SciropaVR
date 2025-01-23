@@ -27,6 +27,26 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a7271a9d2b707c48907efce5ee61d4d
+    m_Address: Assets/Prefabs/Paper.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d7abb52ffc946b46961e31afff387d0
+    m_Address: Assets/Audio/Scissors.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e391154b4ef33ba4ba210bc845a5a190
+    m_Address: Assets/Audio/Paper.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f21b737d23fd43046b82c3741b71a8a6
+    m_Address: Assets/Prefabs/Scissors.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 658bf414e09e7294b9cdc62d02e95144, type: 2}
   m_SchemaSet:

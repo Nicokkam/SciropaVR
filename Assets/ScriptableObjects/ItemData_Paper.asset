@@ -12,16 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea37dd549acbccc4295dcaab75a1ba32, type: 3}
   m_Name: ItemData_Paper
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Paper
   objectReference:
-    m_AssetGUID: 
+    m_AssetGUID: 5a7271a9d2b707c48907efce5ee61d4d
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
   audioClipReference:
-    m_AssetGUID: 
+    m_AssetGUID: e391154b4ef33ba4ba210bc845a5a190
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
-  instantiatedObject: {fileID: 0}
-  loadedAudioClip: {fileID: 0}

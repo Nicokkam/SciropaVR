@@ -151,16 +151,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b114b279d189ab6478628a04885f1c16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _rockObject:
-    m_AssetGUID: 173075e36effa2f44a6c934eb5f43b1e
-    m_SubObjectName: 
-    m_SubObjectType: 
-    m_EditorAssetChanged: 0
-  _rockAudioClip:
-    m_AssetGUID: 57d07e382d687fb46b65c9f5f4ac7fd7
-    m_SubObjectName: 
-    m_SubObjectType: 
-    m_EditorAssetChanged: 0
+  items:
+  - {fileID: 11400000, guid: 4ad3ba45a7d89e14f861a08446caa0f8, type: 2}
+  - {fileID: 11400000, guid: 788011189171a834c9c4d60f1cc8aa35, type: 2}
+  - {fileID: 11400000, guid: 5d9708d699306cd45a834e7ffe0d18e8, type: 2}
 --- !u!4 &1171769061
 Transform:
   m_ObjectHideFlags: 0
