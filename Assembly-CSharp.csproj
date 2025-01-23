@@ -70,6 +70,7 @@
     <Compile Include="Assets\Photon\FusionAddons\Magnets\Scripts\MagnetPoint.cs" />
     <Compile Include="Assets\Photon\FusionAddons\XRHandsSynchronization\Scripts\GesturesDetection\FingerDrivenHardwareRigPose.cs" />
     <Compile Include="Assets\Photon\FusionAddons\XRShared\Scripts\Utils\Layer\LayerSetter.cs" />
+    <Compile Include="Assets\Scripts\ScriptableObjects\ItemData.cs" />
     <Compile Include="Assets\Photon\FusionAddons\VisionOsHelpers\Scripts\Locomotion\VolumeCameraLocomotion.cs" />
     <Compile Include="Assets\Photon\FusionAddons\ExtendedRigSelection\Scripts\ExtendedRigSelection.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\Fusion\DemoNetworkObject\PrefabSpawner.cs" />
@@ -122,6 +123,7 @@
     <Compile Include="Assets\Photon\FusionAddons\XRShared\Scripts\Locomotion\LocomotionValidation.cs" />
     <Compile Include="Assets\Photon\FusionAddons\XRShared\Scripts\Locomotion\Fader.cs" />
     <Compile Include="Assets\Photon\FusionAddons\XRShared\Extensions\HardwareBasedGrabbing\Scripts\Grabber.cs" />
+    <Compile Include="Assets\Scripts\InstantiateObjects.cs" />
     <Compile Include="Assets\Photon\FusionAddons\XRShared\Scripts\Utils\Spawn\UserSpawner.cs" />
     <Compile Include="Assets\Photon\FusionAddons\XRShared\Demo\Scripts\Connection\UpdateConnectionStatus.cs" />
     <Compile Include="Assets\Photon\FusionAddons\ExtendedRigSelection\Scripts\PlatformSpecificMaterial.cs" />

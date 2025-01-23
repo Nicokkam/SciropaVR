@@ -618,6 +618,8 @@
 "Assets/Photon/FusionAddons/XRShared/ThirdParty/OculusSampleFrameworkHands/Scripts/OSFHandRepresentation.cs"
 "Assets/Photon/PhotonVoice/Demos/Fusion/DemoNetworkObject/PrefabSpawner.cs"
 "Assets/Samples/Meta XR Platform SDK/68.0.0/Entitlement Check/EntitlementCheck.cs"
+"Assets/Scripts/InstantiateObjects.cs"
+"Assets/Scripts/ScriptableObjects/ItemData.cs"
 "Assets/uWindowCapture/Samples/Desktop Layout/UwcDesktopLayouter.cs"
 "Assets/uWindowCapture/Samples/GetPixels/UwcGetPixelExample.cs"
 "Assets/uWindowCapture/Samples/GetPixels/UwcGetPixelsExample.cs"
